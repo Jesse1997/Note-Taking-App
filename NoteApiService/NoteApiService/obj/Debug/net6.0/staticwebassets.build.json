@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nf4rbRFvpjGEtiXKhpICTechmfXvw+Tf4bhaZOg5jYE=",
+  "Source": "NoteApiService",
+  "BasePath": "_content/NoteApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
